@@ -56,7 +56,9 @@ button {
     cursor: pointer;
     border-radius: 5px;
 }
-
+button:hover{
+    background-color: #b36b6b;
+}
 button.disabled {
     cursor: not-allowed;
     opacity: 0.5;
